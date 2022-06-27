@@ -12,9 +12,17 @@
 .searchBar {
   width: 400px;
   margin-top: 20px;
+  border-color: #c4c4c4;
+  color: #5b5b5b;
 }
 
 .searchButton {
   width: 80px;
   margin-top: 20px;
+  background-color: #4285f3;
+  border-color: #1a5fd0;
+}
+
+.searchButton:hover {
+  background-color: #5998ff;
 }
