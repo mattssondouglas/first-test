@@ -1,0 +1,20 @@
+.logoBarButton {
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.googleLogo {
+  width: 150px;
+  margin-top: 100px;
+}
+
+.searchBar {
+  width: 400px;
+  margin-top: 20px;
+}
+
+.searchButton {
+  width: 80px;
+  margin-top: 20px;
+}

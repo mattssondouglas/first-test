@@ -1,0 +1,19 @@
+h1 {
+	font-family: Roboto Slab
+}
+
+span {
+	opacity: 0.5
+	display: block;
+	font-family: 'Open Sans'
+}
+
+p {
+	display: block;
+	font-family: 'Open Sans'
+}
+
+a {
+	color: tomato
+	font-family: sans
+}
