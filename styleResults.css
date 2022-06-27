@@ -10,9 +10,18 @@ li {
   font-size: 12px;
 }
 
+a {
+  color: #1a0dab;
+}
+
+a:visited {
+  color: #660099;
+}
+
 p,
 span {
   font-size: 14px;
+  color: #5b5b5b;
 }
 
 .numResults {
@@ -55,6 +64,7 @@ span {
 }
 
 /* Not modified yet */
+/* Color of the navigation border: c4c4c4 */
 /* Width of the search results list: 700px */
 /* Height of the "Search" button: ~40px (automatic, same as search input) */
 /* Space the the left of the search results: 140px */
