@@ -1,0 +1,60 @@
+body {
+  font-family: Helvetica;
+}
+
+.websiteAdress {
+  font-size: 24px;
+}
+
+li {
+  font-size: 12px;
+}
+
+p,
+span {
+  font-size: 14px;
+}
+
+.numResults {
+  margin: 30px auto;
+}
+
+.searchResult {
+  margin: 20px auto;
+}
+
+.logoBarButton {
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.googleLogo {
+  width: 150px;
+  margin-top: 100px;
+  margin-right: 30px;
+}
+
+.searchBar {
+  width: 400px;
+  margin-top: 20px;
+  margin-right: 20px;
+  border-color: #c4c4c4;
+  color: #5b5b5b;
+}
+
+.searchButton {
+  width: 80px;
+  margin: 10px auto;
+  background-color: #4285f3;
+  border-color: #1a5fd0;
+}
+
+.searchButton:hover {
+  background-color: #5998ff;
+}
+
+/* Not modified yet */
+/* Width of the search results list: 700px */
+/* Height of the "Search" button: ~40px (automatic, same as search input) */
+/* Space the the left of the search results: 140px */
